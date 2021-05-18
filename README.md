@@ -1,6 +1,6 @@
-#Task Maker App using React-Native
+# Task Maker App using React-Native
 
-#Contents
+# Contents
 - A list of text Item
 - Search Bar
 - Plus-Button
